@@ -1,5 +1,5 @@
 # Incremental-Evolution-Pose-Generation
-Official implementation of "Direct May Not Be the Best: An Incremental Evolution View of Pose Generation" by Yuelong Li, Tengfei Xiao, Geng Lei, and Jianming Wang.
+Official implementation of "Direct May Not Be the Best: An Incremental Evolution View of Pose Generation" by Yuelong Li, Tengfei Xiao, Lei Geng, and Jianming Wang.
 
 ## :fire: News
 * **[2023.12.12]** We have created a code repository on [github](https://github.com/Xiaofei-CN/Incremental-Evolution-Pose-Generation) and will continue to update it in the future!
