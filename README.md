@@ -8,6 +8,7 @@ Official implementation of "Direct May Not Be the Best: An Incremental Evolution
 ## Method
 
 <img src=images/overallflow.png>
+
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
