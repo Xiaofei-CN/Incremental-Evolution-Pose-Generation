@@ -22,3 +22,6 @@ If you find our work useful in your research, please consider citing:
   year={2024}
 }
 ```
+
+## Acknowledgement
+This repo is inspired by and adapted from [DPTN](https://github.com/PangzeCheung/Dual-task-Pose-Transformer-Network).
