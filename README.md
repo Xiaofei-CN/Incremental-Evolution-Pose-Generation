@@ -8,3 +8,16 @@ Official implementation of "Direct May Not Be the Best: An Incremental Evolution
 ## Method
 
 <img src=images/overallflow.png>
+## Citation
+If you find our work useful in your research, please consider citing:
+```
+@inproceedings{li2024direct,
+  title={Direct May Not Be the Best: An Incremental Evolution View of Pose Generation},
+  author={Li, Yuelong and Xiao, Tengfei and Geng, Lei and Wang, Jianming},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={4},
+  pages={3270--3278},
+  year={2024}
+}
+```
